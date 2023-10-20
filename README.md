@@ -1,9 +1,11 @@
 # Entonrnos de Python
 ---
 ## Indice
-1. Crear y gestionar entornos de Python
-2. Instalación y uso de Anaconda
-3. Diferencias entre anaconda, colab y entornos de Python
+1.[Crear y gestionar entornos de Python](#1-crear-y-gestionar-entornos-de-python)
+
+2.[Instalación y uso de Anaconda](#instalación-y-uso-de-anaconda)
+   
+3.[Diferencias entre anaconda, colab y entornos de Python](#diferencias-entre-anaconda-colab-y-entornos-de-python)
 
 
 ## 1. Crear y gestionar entornos de Python
@@ -33,4 +35,15 @@ pip list
 ```
 Si todo ha salido bien deberiamos ver esto:
 ![Texto](./img/Lista%20entorno.PNG)
+
 ---
+## Instalación y uso de Anaconda
+Cosas
+
+---
+
+## Diferencias entre anaconda, colab y entornos de Python
+cosas
+
+---
+
