@@ -52,7 +52,30 @@ print("Este es mi primer programa")
 ---
 
 ## Diferencias entre anaconda, colab y entornos de Python
-cosas
+En este apartado vamos a ver los pros y contras de Anaconda, Collab y entornos de Python.
 
----
+Anaconda
+- Pros
+  - Esta todo montado
+  - Es muy sencillo de utilizar
+  - No hay que preocuparse por las versiones
+- Contras
+  - No es gratuito si quieres hacer un proyecto para una empresa
+  - Es un programa muy pesado
+
+Collab
+- Pros
+  - Esta en la nube
+  - Es facil de usar
+  - Es colaborativo
+- Contras
+  - Poca potencia de procesamiento
+  
+Entornos de Python
+- Pros
+  - Muy ligeros
+  - Personalizables a las necesidades excatas que tengas
+- Contras
+  - Requiere configuración
+
 
