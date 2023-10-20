@@ -34,11 +34,20 @@ Para listar los paquetes que hay instalados en el entorno podemos escribir el si
 pip list
 ```
 Si todo ha salido bien deberiamos ver esto:
-![Texto](./img/Lista%20entorno.PNG)
+![Imagen de la lista del entorno](./img/Lista%20entorno.PNG)
 
 ---
 ## Instalación y uso de Anaconda
-Cosas
+Lo primero que tenemso que hacer es decargar el instalador desde esta página [Anaconda](https://www.anaconda.com/download). Una vez lo tenemos descargado lo ejecutamos. Los pasos para instalación son muy sencillos solo hay que darle a siguiente en el *Withard* de instalación.
+
+Si todo ha salido bien podemos ejecutar Anaconda y esta es la página principal:
+![Imagen de Anaconda](./img/Install%20Anaconda.PNG)
+
+Para crear un cuaderno de Jupiter tenemos que hacer clic en el botón de **Launch** de JupyterLab. Se nos abrirá una Web con la interfaz, pulsamos en un nuevo cuaderno de Python y escribimos el código
+```
+print("Este es mi primer programa")
+```
+![Imagen de ejecución Anaconda](./img/ejecución%20junyper.PNG)
 
 ---
 
